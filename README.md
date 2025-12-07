@@ -1,16 +1,26 @@
-## Hi there 👋
+Olá, 
 
-<!--
-**leticiasantana26/leticiasantana26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Analista de Desenvolvimento de Sistemas, formada pelo Gran Cursos, e Enfermeira formada pela Escola Superior de Ciências da Saúde (ESCS).  
+Minha trajetória une raciocínio lógico, pensamento analítico e paixão por tecnologia, o que me permite desenvolver soluções inovadoras, eficientes e centradas na experiência do usuário. Busco aplicar boas práticas de desenvolvimento para criar sistemas robustos, funcionais e de alto desempenho.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias e Competências
+
+- Frontend: HTML, CSS, JavaScript, Angular  
+- Desenvolvimento de Sistemas: foco em performance, usabilidade e boas práticas  
+- Metodologias: versionamento com Git e colaboração em ambientes ágeis  
+
+
+
+## Objetivo Profissional
+
+Aprimorar continuamente minhas habilidades técnicas e contribuir para o desenvolvimento de projetos inovadores que unam tecnologia e propósito, entregando resultados que gerem impacto e valor para empresas e usuários.
+
+
+
+
+## 📫 Contato
+
+- LinkedIn:  https://www.linkedin.com/in/let%C3%ADcia-santana-de-araujo-27a005231/
+- E-mail: leticia.santana08@hotmail.com
+
