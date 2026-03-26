@@ -1,6 +1,6 @@
 Olá, 
 
-Sou Analista de Desenvolvimento de Sistemas, formada pelo Gran Cursos, e Enfermeira formada pela Escola Superior de Ciências da Saúde (ESCS).  
+Sou Analista de Desenvolvimento de Sistemas, formada pelo Gran Cursos.  
 Minha trajetória une raciocínio lógico, pensamento analítico e paixão por tecnologia, o que me permite desenvolver soluções inovadoras, eficientes e centradas na experiência do usuário. Busco aplicar boas práticas de desenvolvimento para criar sistemas robustos, funcionais e de alto desempenho.
 
 
